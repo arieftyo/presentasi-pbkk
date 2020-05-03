@@ -1,0 +1,152 @@
+[14-Apr-2020 12:30:10 Asia/Jakarta] PHP Notice:  Undefined variable: di in /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/config/services.php on line 142
+[14-Apr-2020 12:30:10 Asia/Jakarta] PHP Stack trace:
+[14-Apr-2020 12:30:10 Asia/Jakarta] PHP   1. {main}() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:0
+[14-Apr-2020 12:30:10 Asia/Jakarta] PHP   2. Bootstrap->init() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:23
+[14-Apr-2020 12:30:10 Asia/Jakarta] PHP   3. Bootstrap->_registerServices() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:18
+[14-Apr-2020 12:30:10 Asia/Jakarta] PHP   4. include_once() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:68
+[14-Apr-2020 12:30:10 Asia/Jakarta] PHP Notice:  Undefined index: defaultRouting in /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/config/routing.php on line 61
+[14-Apr-2020 12:30:10 Asia/Jakarta] PHP Stack trace:
+[14-Apr-2020 12:30:10 Asia/Jakarta] PHP   1. {main}() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:0
+[14-Apr-2020 12:30:10 Asia/Jakarta] PHP   2. Bootstrap->init() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:23
+[14-Apr-2020 12:30:10 Asia/Jakarta] PHP   3. Bootstrap->handle() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[14-Apr-2020 12:30:10 Asia/Jakarta] PHP   4. Phalcon\Di\FactoryDefault->getShared() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[14-Apr-2020 12:30:10 Asia/Jakarta] PHP   5. Phalcon\Di\FactoryDefault->get() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[14-Apr-2020 12:30:10 Asia/Jakarta] PHP   6. Phalcon\Di\Service->resolve() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[14-Apr-2020 12:30:10 Asia/Jakarta] PHP   7. Phalcon\Di\FactoryDefault->{closure:/mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/config/routing.php:3-137}() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[14-Apr-2020 12:30:37 Asia/Jakarta] PHP Notice:  Undefined variable: di in /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/config/services.php on line 142
+[14-Apr-2020 12:30:37 Asia/Jakarta] PHP Stack trace:
+[14-Apr-2020 12:30:37 Asia/Jakarta] PHP   1. {main}() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:0
+[14-Apr-2020 12:30:37 Asia/Jakarta] PHP   2. Bootstrap->init() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:23
+[14-Apr-2020 12:30:37 Asia/Jakarta] PHP   3. Bootstrap->_registerServices() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:18
+[14-Apr-2020 12:30:37 Asia/Jakarta] PHP   4. include_once() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:68
+[14-Apr-2020 12:30:37 Asia/Jakarta] PHP Notice:  Undefined index: defaultRouting in /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/config/routing.php on line 61
+[14-Apr-2020 12:30:37 Asia/Jakarta] PHP Stack trace:
+[14-Apr-2020 12:30:37 Asia/Jakarta] PHP   1. {main}() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:0
+[14-Apr-2020 12:30:37 Asia/Jakarta] PHP   2. Bootstrap->init() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:23
+[14-Apr-2020 12:30:37 Asia/Jakarta] PHP   3. Bootstrap->handle() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[14-Apr-2020 12:30:37 Asia/Jakarta] PHP   4. Phalcon\Di\FactoryDefault->getShared() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[14-Apr-2020 12:30:37 Asia/Jakarta] PHP   5. Phalcon\Di\FactoryDefault->get() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[14-Apr-2020 12:30:37 Asia/Jakarta] PHP   6. Phalcon\Di\Service->resolve() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[14-Apr-2020 12:30:37 Asia/Jakarta] PHP   7. Phalcon\Di\FactoryDefault->{closure:/mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/config/routing.php:3-137}() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[14-Apr-2020 12:32:45 Asia/Jakarta] PHP Notice:  Undefined variable: di in /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/config/services.php on line 156
+[14-Apr-2020 12:32:45 Asia/Jakarta] PHP Stack trace:
+[14-Apr-2020 12:32:45 Asia/Jakarta] PHP   1. {main}() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:0
+[14-Apr-2020 12:32:45 Asia/Jakarta] PHP   2. Bootstrap->init() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:23
+[14-Apr-2020 12:32:45 Asia/Jakarta] PHP   3. Bootstrap->_registerServices() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:18
+[14-Apr-2020 12:32:45 Asia/Jakarta] PHP   4. include_once() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:68
+[14-Apr-2020 12:32:45 Asia/Jakarta] PHP Notice:  Undefined index: defaultRouting in /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/config/routing.php on line 61
+[14-Apr-2020 12:32:45 Asia/Jakarta] PHP Stack trace:
+[14-Apr-2020 12:32:45 Asia/Jakarta] PHP   1. {main}() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:0
+[14-Apr-2020 12:32:45 Asia/Jakarta] PHP   2. Bootstrap->init() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:23
+[14-Apr-2020 12:32:45 Asia/Jakarta] PHP   3. Bootstrap->handle() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[14-Apr-2020 12:32:45 Asia/Jakarta] PHP   4. Phalcon\Di\FactoryDefault->getShared() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[14-Apr-2020 12:32:45 Asia/Jakarta] PHP   5. Phalcon\Di\FactoryDefault->get() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[14-Apr-2020 12:32:45 Asia/Jakarta] PHP   6. Phalcon\Di\Service->resolve() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[14-Apr-2020 12:32:45 Asia/Jakarta] PHP   7. Phalcon\Di\FactoryDefault->{closure:/mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/config/routing.php:3-137}() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[14-Apr-2020 12:37:20 Asia/Jakarta] PHP Notice:  Undefined index: defaultRouting in /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/config/routing.php on line 61
+[14-Apr-2020 12:37:20 Asia/Jakarta] PHP Stack trace:
+[14-Apr-2020 12:37:20 Asia/Jakarta] PHP   1. {main}() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:0
+[14-Apr-2020 12:37:20 Asia/Jakarta] PHP   2. Bootstrap->init() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:23
+[14-Apr-2020 12:37:20 Asia/Jakarta] PHP   3. Bootstrap->handle() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[14-Apr-2020 12:37:20 Asia/Jakarta] PHP   4. Phalcon\Di\FactoryDefault->getShared() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[14-Apr-2020 12:37:20 Asia/Jakarta] PHP   5. Phalcon\Di\FactoryDefault->get() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[14-Apr-2020 12:37:20 Asia/Jakarta] PHP   6. Phalcon\Di\Service->resolve() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[14-Apr-2020 12:37:20 Asia/Jakarta] PHP   7. Phalcon\Di\FactoryDefault->{closure:/mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/config/routing.php:3-137}() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[14-Apr-2020 12:37:21 Asia/Jakarta] PHP Notice:  Undefined index: defaultRouting in /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/config/routing.php on line 61
+[14-Apr-2020 12:37:22 Asia/Jakarta] PHP Notice:  Undefined index: defaultRouting in /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/config/routing.php on line 61
+[14-Apr-2020 12:37:22 Asia/Jakarta] PHP Stack trace:
+[14-Apr-2020 12:37:22 Asia/Jakarta] PHP   1. {main}() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:0
+[14-Apr-2020 12:37:22 Asia/Jakarta] PHP Stack trace:
+[14-Apr-2020 12:37:22 Asia/Jakarta] PHP   1. {main}() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:0
+[14-Apr-2020 12:37:22 Asia/Jakarta] PHP   2. Bootstrap->init() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:23
+[14-Apr-2020 12:37:22 Asia/Jakarta] PHP   2. Bootstrap->init() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:23
+[14-Apr-2020 12:37:22 Asia/Jakarta] PHP   3. Bootstrap->handle() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[14-Apr-2020 12:37:22 Asia/Jakarta] PHP   4. Phalcon\Di\FactoryDefault->getShared() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[14-Apr-2020 12:37:22 Asia/Jakarta] PHP   3. Bootstrap->handle() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[14-Apr-2020 12:37:22 Asia/Jakarta] PHP   4. Phalcon\Di\FactoryDefault->getShared() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[14-Apr-2020 12:37:22 Asia/Jakarta] PHP   5. Phalcon\Di\FactoryDefault->get() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[14-Apr-2020 12:37:22 Asia/Jakarta] PHP   6. Phalcon\Di\Service->resolve() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[14-Apr-2020 12:37:22 Asia/Jakarta] PHP   5. Phalcon\Di\FactoryDefault->get() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[14-Apr-2020 12:37:22 Asia/Jakarta] PHP   6. Phalcon\Di\Service->resolve() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[14-Apr-2020 12:37:22 Asia/Jakarta] PHP   7. Phalcon\Di\FactoryDefault->{closure:/mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/config/routing.php:3-137}() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[14-Apr-2020 12:37:22 Asia/Jakarta] PHP   7. Phalcon\Di\FactoryDefault->{closure:/mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/config/routing.php:3-137}() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[18-Apr-2020 23:19:46 Asia/Jakarta] PHP Fatal error:  Cannot override final method Phalcon\Mvc\Controller::__construct() in /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/modules/dashboard/Presentation/Web/Controller/IndexController.php on line 18
+[18-Apr-2020 23:19:46 Asia/Jakarta] PHP Stack trace:
+[18-Apr-2020 23:19:46 Asia/Jakarta] PHP   1. {main}() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:0
+[18-Apr-2020 23:19:46 Asia/Jakarta] PHP   2. Bootstrap->init() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:23
+[18-Apr-2020 23:19:46 Asia/Jakarta] PHP   3. Bootstrap->handle() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[18-Apr-2020 23:19:46 Asia/Jakarta] PHP   4. Phalcon\Mvc\Dispatcher->dispatch() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[18-Apr-2020 23:19:46 Asia/Jakarta] PHP   5. spl_autoload_call() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[18-Apr-2020 23:19:46 Asia/Jakarta] PHP   6. Phalcon\Loader->autoLoad() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[19-Apr-2020 13:41:39 Asia/Jakarta] PHP Warning:  Use of undefined constant buku - assumed 'buku' (this will throw an Error in a future version of PHP) in /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/modules/dashboard/Presentation/Web/Controller/IndexController.php on line 33
+[19-Apr-2020 13:41:39 Asia/Jakarta] PHP Stack trace:
+[19-Apr-2020 13:41:39 Asia/Jakarta] PHP   1. {main}() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:0
+[19-Apr-2020 13:41:39 Asia/Jakarta] PHP   2. Bootstrap->init() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:23
+[19-Apr-2020 13:41:39 Asia/Jakarta] PHP   3. Bootstrap->handle() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[19-Apr-2020 13:41:39 Asia/Jakarta] PHP   4. Phalcon\Mvc\Dispatcher->dispatch() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[19-Apr-2020 13:41:39 Asia/Jakarta] PHP   5. Phalcon\Mvc\Dispatcher->callActionMethod() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[19-Apr-2020 13:41:39 Asia/Jakarta] PHP   6. Its\Example\Dashboard\Presentation\Web\Controller\IndexController->indexAction() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[19-Apr-2020 13:41:39 Asia/Jakarta] PHP   7. Its\Example\Dashboard\Presentation\Web\Controller\IndexController->getBukuAction() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/modules/dashboard/Presentation/Web/Controller/IndexController.php:15
+[19-Apr-2020 13:41:47 Asia/Jakarta] PHP Warning:  Use of undefined constant buku - assumed 'buku' (this will throw an Error in a future version of PHP) in /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/modules/dashboard/Presentation/Web/Controller/IndexController.php on line 33
+[19-Apr-2020 13:41:47 Asia/Jakarta] PHP Stack trace:
+[19-Apr-2020 13:41:47 Asia/Jakarta] PHP   1. {main}() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:0
+[19-Apr-2020 13:41:47 Asia/Jakarta] PHP   2. Bootstrap->init() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:23
+[19-Apr-2020 13:41:47 Asia/Jakarta] PHP   3. Bootstrap->handle() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[19-Apr-2020 13:41:47 Asia/Jakarta] PHP   4. Phalcon\Mvc\Dispatcher->dispatch() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[19-Apr-2020 13:41:47 Asia/Jakarta] PHP   5. Phalcon\Mvc\Dispatcher->callActionMethod() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[19-Apr-2020 13:41:47 Asia/Jakarta] PHP   6. Its\Example\Dashboard\Presentation\Web\Controller\IndexController->indexAction() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[19-Apr-2020 13:41:47 Asia/Jakarta] PHP   7. Its\Example\Dashboard\Presentation\Web\Controller\IndexController->getBukuAction() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/modules/dashboard/Presentation/Web/Controller/IndexController.php:15
+[23-Apr-2020 17:02:04 Asia/Jakarta] PHP Notice:  Undefined index: dashboard in /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/config/routing.php on line 12
+[23-Apr-2020 17:02:04 Asia/Jakarta] PHP Stack trace:
+[23-Apr-2020 17:02:04 Asia/Jakarta] PHP   1. {main}() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:0
+[23-Apr-2020 17:02:04 Asia/Jakarta] PHP   2. Bootstrap->init() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:23
+[23-Apr-2020 17:02:04 Asia/Jakarta] PHP   3. Bootstrap->handle() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[23-Apr-2020 17:02:04 Asia/Jakarta] PHP   4. Phalcon\Di\FactoryDefault->getShared() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[23-Apr-2020 17:02:04 Asia/Jakarta] PHP   5. Phalcon\Di\FactoryDefault->get() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[23-Apr-2020 17:02:04 Asia/Jakarta] PHP   6. Phalcon\Di\Service->resolve() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[23-Apr-2020 17:02:04 Asia/Jakarta] PHP   7. Phalcon\Di\FactoryDefault->{closure:/mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/config/routing.php:3-136}() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[23-Apr-2020 17:02:04 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/config/routing.php on line 12
+[23-Apr-2020 17:02:04 Asia/Jakarta] PHP Stack trace:
+[23-Apr-2020 17:02:04 Asia/Jakarta] PHP   1. {main}() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:0
+[23-Apr-2020 17:02:04 Asia/Jakarta] PHP   2. Bootstrap->init() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:23
+[23-Apr-2020 17:02:04 Asia/Jakarta] PHP   3. Bootstrap->handle() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[23-Apr-2020 17:02:04 Asia/Jakarta] PHP   4. Phalcon\Di\FactoryDefault->getShared() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[23-Apr-2020 17:02:04 Asia/Jakarta] PHP   5. Phalcon\Di\FactoryDefault->get() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[23-Apr-2020 17:02:04 Asia/Jakarta] PHP   6. Phalcon\Di\Service->resolve() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[23-Apr-2020 17:02:04 Asia/Jakarta] PHP   7. Phalcon\Di\FactoryDefault->{closure:/mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/config/routing.php:3-136}() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[23-Apr-2020 17:03:45 Asia/Jakarta] PHP Notice:  Undefined index: dashboard in /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/config/routing.php on line 12
+[23-Apr-2020 17:03:45 Asia/Jakarta] PHP Stack trace:
+[23-Apr-2020 17:03:45 Asia/Jakarta] PHP   1. {main}() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:0
+[23-Apr-2020 17:03:45 Asia/Jakarta] PHP   2. Bootstrap->init() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:23
+[23-Apr-2020 17:03:45 Asia/Jakarta] PHP   3. Bootstrap->handle() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[23-Apr-2020 17:03:45 Asia/Jakarta] PHP   4. Phalcon\Di\FactoryDefault->getShared() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[23-Apr-2020 17:03:45 Asia/Jakarta] PHP   5. Phalcon\Di\FactoryDefault->get() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[23-Apr-2020 17:03:45 Asia/Jakarta] PHP   6. Phalcon\Di\Service->resolve() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[23-Apr-2020 17:03:45 Asia/Jakarta] PHP   7. Phalcon\Di\FactoryDefault->{closure:/mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/config/routing.php:3-136}() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[23-Apr-2020 17:03:45 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/config/routing.php on line 12
+[23-Apr-2020 17:03:45 Asia/Jakarta] PHP Stack trace:
+[23-Apr-2020 17:03:45 Asia/Jakarta] PHP   1. {main}() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:0
+[23-Apr-2020 17:03:45 Asia/Jakarta] PHP   2. Bootstrap->init() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:23
+[23-Apr-2020 17:03:45 Asia/Jakarta] PHP   3. Bootstrap->handle() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[23-Apr-2020 17:03:45 Asia/Jakarta] PHP   4. Phalcon\Di\FactoryDefault->getShared() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[23-Apr-2020 17:03:45 Asia/Jakarta] PHP   5. Phalcon\Di\FactoryDefault->get() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[23-Apr-2020 17:03:45 Asia/Jakarta] PHP   6. Phalcon\Di\Service->resolve() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[23-Apr-2020 17:03:45 Asia/Jakarta] PHP   7. Phalcon\Di\FactoryDefault->{closure:/mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/config/routing.php:3-136}() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[23-Apr-2020 17:07:06 Asia/Jakarta] PHP Notice:  Undefined index: dashboard in /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/config/routing.php on line 12
+[23-Apr-2020 17:07:06 Asia/Jakarta] PHP Stack trace:
+[23-Apr-2020 17:07:06 Asia/Jakarta] PHP   1. {main}() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:0
+[23-Apr-2020 17:07:06 Asia/Jakarta] PHP   2. Bootstrap->init() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:23
+[23-Apr-2020 17:07:06 Asia/Jakarta] PHP   3. Bootstrap->handle() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[23-Apr-2020 17:07:06 Asia/Jakarta] PHP   4. Phalcon\Di\FactoryDefault->getShared() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[23-Apr-2020 17:07:06 Asia/Jakarta] PHP   5. Phalcon\Di\FactoryDefault->get() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[23-Apr-2020 17:07:06 Asia/Jakarta] PHP   6. Phalcon\Di\Service->resolve() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[23-Apr-2020 17:07:06 Asia/Jakarta] PHP   7. Phalcon\Di\FactoryDefault->{closure:/mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/config/routing.php:3-136}() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[23-Apr-2020 17:07:06 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/config/routing.php on line 12
+[23-Apr-2020 17:07:06 Asia/Jakarta] PHP Stack trace:
+[23-Apr-2020 17:07:06 Asia/Jakarta] PHP   1. {main}() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:0
+[23-Apr-2020 17:07:06 Asia/Jakarta] PHP   2. Bootstrap->init() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:23
+[23-Apr-2020 17:07:06 Asia/Jakarta] PHP   3. Bootstrap->handle() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[23-Apr-2020 17:07:06 Asia/Jakarta] PHP   4. Phalcon\Di\FactoryDefault->getShared() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[23-Apr-2020 17:07:06 Asia/Jakarta] PHP   5. Phalcon\Di\FactoryDefault->get() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[23-Apr-2020 17:07:06 Asia/Jakarta] PHP   6. Phalcon\Di\Service->resolve() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[23-Apr-2020 17:07:06 Asia/Jakarta] PHP   7. Phalcon\Di\FactoryDefault->{closure:/mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/config/routing.php:3-136}() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
