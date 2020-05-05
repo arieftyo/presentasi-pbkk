@@ -3,6 +3,8 @@
 use Phalcon\Mvc\View;
 use Its\Example\Dashboard\Core\Application\Service\FindUserById\FindUserByIdService;
 use Its\Example\Dashboard\Infrastructure\Persistence\SqlServerUserRepository;
+use Phalcon\Assets\Asset\Css;
+use Phalcon\Image\ImageFactory;
 
 $di['view'] = function () {
     $view = new View();
@@ -48,3 +50,13 @@ $di->set('assets', function() use ($di){
         ->addCss('assets/form-register.css');
     return $assets;
 });
+
+
+$di->set('imageFactory', function() use ($di){
+    $factory = new ImageFactory();
+    return $factory;
+});
+
+
+
+

@@ -150,3 +150,82 @@
 [23-Apr-2020 17:07:06 Asia/Jakarta] PHP   5. Phalcon\Di\FactoryDefault->get() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
 [23-Apr-2020 17:07:06 Asia/Jakarta] PHP   6. Phalcon\Di\Service->resolve() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
 [23-Apr-2020 17:07:06 Asia/Jakarta] PHP   7. Phalcon\Di\FactoryDefault->{closure:/mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/config/routing.php:3-136}() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[04-May-2020 19:53:38 Asia/Jakarta] PHP Notice:  Undefined variable: assets in /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/cache/-prefix-_mnt_e_kuliah_semester 6_pbkk_phalcon-multi-modules_src_apps_modules_dashboard_presentation_web_views_login.volt.php on line 13
+[04-May-2020 19:53:38 Asia/Jakarta] PHP Stack trace:
+[04-May-2020 19:53:38 Asia/Jakarta] PHP   1. {main}() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:0
+[04-May-2020 19:53:38 Asia/Jakarta] PHP   2. Bootstrap->init() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:23
+[04-May-2020 19:53:38 Asia/Jakarta] PHP   3. Bootstrap->handle() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[04-May-2020 19:53:38 Asia/Jakarta] PHP   4. Phalcon\Mvc\View->render() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[04-May-2020 19:53:38 Asia/Jakarta] PHP   5. Phalcon\Mvc\View->processRender() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[04-May-2020 19:53:38 Asia/Jakarta] PHP   6. Phalcon\Mvc\View->engineRender() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[04-May-2020 19:53:38 Asia/Jakarta] PHP   7. Phalcon\Mvc\View\Engine\Volt->render() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[04-May-2020 19:53:38 Asia/Jakarta] PHP   8. Phalcon\Mvc\View\Engine\Volt->render() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[04-May-2020 19:55:14 Asia/Jakarta] PHP Notice:  Access to undefined property asset in /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/modules/dashboard/Presentation/Web/Controller/IndexController.php on line 17
+[04-May-2020 19:55:14 Asia/Jakarta] PHP Stack trace:
+[04-May-2020 19:55:14 Asia/Jakarta] PHP   1. {main}() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:0
+[04-May-2020 19:55:14 Asia/Jakarta] PHP   2. Bootstrap->init() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:23
+[04-May-2020 19:55:14 Asia/Jakarta] PHP   3. Bootstrap->handle() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[04-May-2020 19:55:14 Asia/Jakarta] PHP   4. Phalcon\Mvc\Dispatcher->dispatch() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[04-May-2020 19:55:14 Asia/Jakarta] PHP   5. Phalcon\Mvc\Dispatcher->callActionMethod() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[04-May-2020 19:55:14 Asia/Jakarta] PHP   6. Its\Example\Dashboard\Presentation\Web\Controller\IndexController->indexAction() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[04-May-2020 19:55:14 Asia/Jakarta] PHP   7. Its\Example\Dashboard\Presentation\Web\Controller\IndexController->__get() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/modules/dashboard/Presentation/Web/Controller/IndexController.php:17
+[04-May-2020 19:55:14 Asia/Jakarta] PHP   8. trigger_error() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/modules/dashboard/Presentation/Web/Controller/IndexController.php:17
+[05-May-2020 06:59:44 Asia/Jakarta] PHP Notice:  Undefined variable: headerCss in /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/cache/-prefix-_mnt_e_kuliah_semester 6_pbkk_phalcon-multi-modules_src_apps_modules_dashboard_presentation_web_views_login.volt.php on line 13
+[05-May-2020 06:59:44 Asia/Jakarta] PHP Stack trace:
+[05-May-2020 06:59:44 Asia/Jakarta] PHP   1. {main}() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:0
+[05-May-2020 06:59:44 Asia/Jakarta] PHP   2. Bootstrap->init() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:23
+[05-May-2020 06:59:44 Asia/Jakarta] PHP   3. Bootstrap->handle() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[05-May-2020 06:59:44 Asia/Jakarta] PHP   4. Phalcon\Mvc\View->render() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[05-May-2020 06:59:44 Asia/Jakarta] PHP   5. Phalcon\Mvc\View->processRender() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[05-May-2020 06:59:44 Asia/Jakarta] PHP   6. Phalcon\Mvc\View->engineRender() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[05-May-2020 06:59:44 Asia/Jakarta] PHP   7. Phalcon\Mvc\View\Engine\Volt->render() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[05-May-2020 06:59:44 Asia/Jakarta] PHP   8. Phalcon\Mvc\View\Engine\Volt->render() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[05-May-2020 07:07:18 Asia/Jakarta] PHP Notice:  Undefined variable: assets in /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/cache/-prefix-_mnt_e_kuliah_semester 6_pbkk_phalcon-multi-modules_src_apps_modules_dashboard_presentation_web_views_login.volt.php on line 13
+[05-May-2020 07:07:18 Asia/Jakarta] PHP Stack trace:
+[05-May-2020 07:07:18 Asia/Jakarta] PHP   1. {main}() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:0
+[05-May-2020 07:07:18 Asia/Jakarta] PHP   2. Bootstrap->init() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:23
+[05-May-2020 07:07:18 Asia/Jakarta] PHP   3. Bootstrap->handle() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[05-May-2020 07:07:18 Asia/Jakarta] PHP   4. Phalcon\Mvc\View->render() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[05-May-2020 07:07:18 Asia/Jakarta] PHP   5. Phalcon\Mvc\View->processRender() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[05-May-2020 07:07:18 Asia/Jakarta] PHP   6. Phalcon\Mvc\View->engineRender() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[05-May-2020 07:07:18 Asia/Jakarta] PHP   7. Phalcon\Mvc\View\Engine\Volt->render() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[05-May-2020 07:07:18 Asia/Jakarta] PHP   8. Phalcon\Mvc\View\Engine\Volt->render() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[05-May-2020 07:52:08 Asia/Jakarta] PHP Notice:  Access to undefined property loginUserService in /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/modules/dashboard/Presentation/Web/Controller/IndexController.php on line 78
+[05-May-2020 07:52:08 Asia/Jakarta] PHP Stack trace:
+[05-May-2020 07:52:08 Asia/Jakarta] PHP   1. {main}() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:0
+[05-May-2020 07:52:08 Asia/Jakarta] PHP   2. Bootstrap->init() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/public/index.php:23
+[05-May-2020 07:52:08 Asia/Jakarta] PHP   3. Bootstrap->handle() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[05-May-2020 07:52:08 Asia/Jakarta] PHP   4. Phalcon\Mvc\Dispatcher->dispatch() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[05-May-2020 07:52:08 Asia/Jakarta] PHP   5. Phalcon\Mvc\Dispatcher->callActionMethod() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[05-May-2020 07:52:08 Asia/Jakarta] PHP   6. Its\Example\Dashboard\Presentation\Web\Controller\IndexController->loginSubmitAction() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/Bootstrap.php:38
+[05-May-2020 07:52:08 Asia/Jakarta] PHP   7. Its\Example\Dashboard\Presentation\Web\Controller\IndexController->__get() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/modules/dashboard/Presentation/Web/Controller/IndexController.php:78
+[05-May-2020 07:52:08 Asia/Jakarta] PHP   8. trigger_error() /mnt/e/Kuliah/semester 6/pbkk/phalcon-multi-modules/src/apps/modules/dashboard/Presentation/Web/Controller/IndexController.php:78
+[05-May-2020 08:37:24 Asia/Jakarta] PHP Notice:  Undefined variable: flash in /mnt/e/Kuliah/semester 6/pbkk/presentasi-pbkk/src/apps/modules/dashboard/Presentation/Web/Controller/IndexController.php on line 92
+[05-May-2020 08:37:24 Asia/Jakarta] PHP Stack trace:
+[05-May-2020 08:37:24 Asia/Jakarta] PHP   1. {main}() /mnt/e/Kuliah/semester 6/pbkk/presentasi-pbkk/src/public/index.php:0
+[05-May-2020 08:37:24 Asia/Jakarta] PHP   2. Bootstrap->init() /mnt/e/Kuliah/semester 6/pbkk/presentasi-pbkk/src/public/index.php:23
+[05-May-2020 08:37:24 Asia/Jakarta] PHP   3. Bootstrap->handle() /mnt/e/Kuliah/semester 6/pbkk/presentasi-pbkk/src/apps/Bootstrap.php:38
+[05-May-2020 08:37:24 Asia/Jakarta] PHP   4. Phalcon\Mvc\Dispatcher->dispatch() /mnt/e/Kuliah/semester 6/pbkk/presentasi-pbkk/src/apps/Bootstrap.php:38
+[05-May-2020 08:37:24 Asia/Jakarta] PHP   5. Phalcon\Mvc\Dispatcher->callActionMethod() /mnt/e/Kuliah/semester 6/pbkk/presentasi-pbkk/src/apps/Bootstrap.php:38
+[05-May-2020 08:37:24 Asia/Jakarta] PHP   6. Its\Example\Dashboard\Presentation\Web\Controller\IndexController->loginSubmitAction() /mnt/e/Kuliah/semester 6/pbkk/presentasi-pbkk/src/apps/Bootstrap.php:38
+[05-May-2020 09:05:01 Asia/Jakarta] PHP Notice:  Access to undefined property Imagefactory in /mnt/e/Kuliah/semester 6/pbkk/presentasi-pbkk/src/apps/modules/dashboard/Presentation/Web/Controller/IndexController.php on line 72
+[05-May-2020 09:05:01 Asia/Jakarta] PHP Stack trace:
+[05-May-2020 09:05:01 Asia/Jakarta] PHP   1. {main}() /mnt/e/Kuliah/semester 6/pbkk/presentasi-pbkk/src/public/index.php:0
+[05-May-2020 09:05:01 Asia/Jakarta] PHP   2. Bootstrap->init() /mnt/e/Kuliah/semester 6/pbkk/presentasi-pbkk/src/public/index.php:23
+[05-May-2020 09:05:01 Asia/Jakarta] PHP   3. Bootstrap->handle() /mnt/e/Kuliah/semester 6/pbkk/presentasi-pbkk/src/apps/Bootstrap.php:38
+[05-May-2020 09:05:01 Asia/Jakarta] PHP   4. Phalcon\Mvc\Dispatcher->dispatch() /mnt/e/Kuliah/semester 6/pbkk/presentasi-pbkk/src/apps/Bootstrap.php:38
+[05-May-2020 09:05:01 Asia/Jakarta] PHP   5. Phalcon\Mvc\Dispatcher->callActionMethod() /mnt/e/Kuliah/semester 6/pbkk/presentasi-pbkk/src/apps/Bootstrap.php:38
+[05-May-2020 09:05:01 Asia/Jakarta] PHP   6. Its\Example\Dashboard\Presentation\Web\Controller\IndexController->indexAction() /mnt/e/Kuliah/semester 6/pbkk/presentasi-pbkk/src/apps/Bootstrap.php:38
+[05-May-2020 09:05:01 Asia/Jakarta] PHP   7. Its\Example\Dashboard\Presentation\Web\Controller\IndexController->__get() /mnt/e/Kuliah/semester 6/pbkk/presentasi-pbkk/src/apps/modules/dashboard/Presentation/Web/Controller/IndexController.php:72
+[05-May-2020 09:05:01 Asia/Jakarta] PHP   8. trigger_error() /mnt/e/Kuliah/semester 6/pbkk/presentasi-pbkk/src/apps/modules/dashboard/Presentation/Web/Controller/IndexController.php:72
+[05-May-2020 09:09:31 Asia/Jakarta] PHP Warning:  imagettfbbox(): Could not find/open font in /mnt/e/Kuliah/semester 6/pbkk/presentasi-pbkk/src/apps/modules/dashboard/Presentation/Web/Controller/IndexController.php on line 78
+[05-May-2020 09:09:31 Asia/Jakarta] PHP Stack trace:
+[05-May-2020 09:09:31 Asia/Jakarta] PHP   1. {main}() /mnt/e/Kuliah/semester 6/pbkk/presentasi-pbkk/src/public/index.php:0
+[05-May-2020 09:09:31 Asia/Jakarta] PHP   2. Bootstrap->init() /mnt/e/Kuliah/semester 6/pbkk/presentasi-pbkk/src/public/index.php:23
+[05-May-2020 09:09:31 Asia/Jakarta] PHP   3. Bootstrap->handle() /mnt/e/Kuliah/semester 6/pbkk/presentasi-pbkk/src/apps/Bootstrap.php:38
+[05-May-2020 09:09:31 Asia/Jakarta] PHP   4. Phalcon\Mvc\Dispatcher->dispatch() /mnt/e/Kuliah/semester 6/pbkk/presentasi-pbkk/src/apps/Bootstrap.php:38
+[05-May-2020 09:09:31 Asia/Jakarta] PHP   5. Phalcon\Mvc\Dispatcher->callActionMethod() /mnt/e/Kuliah/semester 6/pbkk/presentasi-pbkk/src/apps/Bootstrap.php:38
+[05-May-2020 09:09:31 Asia/Jakarta] PHP   6. Its\Example\Dashboard\Presentation\Web\Controller\IndexController->indexAction() /mnt/e/Kuliah/semester 6/pbkk/presentasi-pbkk/src/apps/Bootstrap.php:38
+[05-May-2020 09:09:31 Asia/Jakarta] PHP   7. Phalcon\Image\Adapter\Gd->text() /mnt/e/Kuliah/semester 6/pbkk/presentasi-pbkk/src/apps/modules/dashboard/Presentation/Web/Controller/IndexController.php:78
+[05-May-2020 09:09:31 Asia/Jakarta] PHP   8. Phalcon\Image\Adapter\Gd->processText() /mnt/e/Kuliah/semester 6/pbkk/presentasi-pbkk/src/apps/modules/dashboard/Presentation/Web/Controller/IndexController.php:78
+[05-May-2020 09:09:31 Asia/Jakarta] PHP   9. imagettfbbox() /mnt/e/Kuliah/semester 6/pbkk/presentasi-pbkk/src/apps/modules/dashboard/Presentation/Web/Controller/IndexController.php:78

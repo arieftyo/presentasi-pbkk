@@ -6,21 +6,31 @@ $namespace = 'Its\Example\Dashboard\Presentation\Web\Controller';
 // Define a router
 
 $router->add(
-    '/dashboard/register',
+    '/',
     [
         'namespace' => 'Its\Example\Dashboard\Presentation\Web\Controller',
         'module' => 'dashboard',
-        'controller' => 'register',
+        'controller' => 'index',
         'action'     => 'index',
     ]
 );
 
-$router->add('/dashboard', [
+$router->add('/register', [
     'namespace' => $namespace,
     'module' => 'dashboard',
-    'controller' => 'index',
+    'controller' => 'register',
     'action' => 'index'
 ]);
+
+$router->add(
+    '/submit',
+    [
+        'namespace' => 'Its\Example\Dashboard\Presentation\Web\Controller',
+        'module' => 'dashboard',
+        'controller' => 'index',
+        'action'     => 'loginSubmit',
+    ]
+);
 
 
 

@@ -115,15 +115,7 @@ $container->set(
 $container->set(
     'flash',
     function () {
-        $flash = new FlashDirect(
-            [
-                'error'   => 'alert alert-danger',
-                'success' => 'alert alert-success',
-                'notice'  => 'alert alert-info',
-                'warning' => 'alert alert-warning',
-            ]
-        );
-
+        $flash = new FlashDirect();
         return $flash;
     }
 );
@@ -131,7 +123,8 @@ $container->set(
 $container->set(
     'flashSession',
     function () {
-        $flash = new FlashSession(
+        $flash = new FlashSession();
+        $flash->setCssClasses(
             [
                 'error'   => 'alert alert-danger',
                 'success' => 'alert alert-success',
@@ -140,7 +133,7 @@ $container->set(
             ]
         );
 
-        $flash->setAutoescape(false);
+        // $flash->setAutoescape(false);
         
         return $flash;
     }
